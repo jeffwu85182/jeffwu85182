@@ -1,7 +1,7 @@
 Hi 👋 My name is Jeff
 ========================
 
-Front End Developer
+Frontend Developer
 -------------------
 
 * 🌍  I'm based in Taipei, Taiwan
