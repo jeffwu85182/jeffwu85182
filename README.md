@@ -1,4 +1,4 @@
-Hi 👋 My name is Jeff Wu
+Hi 👋 My name is Jeff
 ========================
 
 Front End Developer
