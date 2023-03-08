@@ -5,9 +5,8 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Taipei, Taiwan
-* 🖥️  See my portfolio at [My Blog](http://blog.crazyalu.com)
+* 🖥️  See my blog at [My Blog](http://blog.crazyalu.com)
 * ✉️  You can contact me at [crazy.alu@outlook.com](mailto:crazy.alu@outlook.com)
-* 🧠  I'm learning Algorithsm
 
 ### Skills
 
